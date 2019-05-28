@@ -4,10 +4,6 @@
 
 
 def check_if_even(num):
-    if num % 2 == 0:
-        return True
-    else:
-        return False
 
 
 # Read a number from the keyboard
