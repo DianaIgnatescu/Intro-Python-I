@@ -19,9 +19,9 @@ import sys
 
 
 import os
-# See the docs for the OS module: https://docs.python.org/3.7/library/os.html
+# See the docs for the OS module: https://docs.python.org/3.7/library/os.html.
 
-# Print the current process ID
+# Print the current process ID.
 # YOUR CODE HERE
 
 print(os.getpid())
@@ -31,7 +31,7 @@ print(os.getpid())
 
 print(os.getcwd())
 
-# Print out your machine's login name
+# Print out your machine's login name.
 # YOUR CODE HERE
 
 print(os.getlogin())

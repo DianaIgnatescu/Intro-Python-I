@@ -5,12 +5,12 @@
 x = 12
 
 
-def changeX():
+def change_x():
     x = 99
     print(x)
 
 
-changeX()
+change_x()
 
 # This prints 12. What do we have to modify in changeX() to get it to print 99?
 # we need to print the variable inside changeX.

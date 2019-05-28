@@ -4,13 +4,14 @@
 
 
 def check_if_even(num):
+    return num % 2 == 0
 
 
-# Read a number from the keyboard
+# Read a number from the keyboard.
 num = input("Enter a number: ")
 num = int(num)
 
-# Print out "Even!" if the number is even. Otherwise print "Odd"
+# Print out "Even!" if the number is even. Otherwise print "Odd".
 
 # YOUR CODE HERE
 check_if_even = check_if_even(num)

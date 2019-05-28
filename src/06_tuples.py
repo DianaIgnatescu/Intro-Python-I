@@ -29,11 +29,11 @@ def dist(a, b):
 a = (2, 7)   # <-- x,y coordinates stored in tuples
 b = (-14, 72)
 
-# Prints "Distance is 66.94"
+# Prints "Distance is 66.94".
 print("Distance is: {:.2f}".format(dist(a, b)))
 
 
-# Write a function `print_tuple` that prints all the values in a tuple
+# Write a function `print_tuple` that prints all the values in a tuple.
 # YOUR CODE HERE
 
 t = (1, 2, 5, 7, 99)
